@@ -1,6 +1,6 @@
 # U nas w UK
 
-Portal z wiadomościami, poradami, rozrywką, humorem i ogłoszeniami dla Polaków w Wielkiej Brytanii.
+Portal dla Polaków w UK – wiadomości, ogłoszenia, artykuły, wydarzenia i lokalna społeczność.
 
 - `strona/` – pliki strony (to jest folder publikowany w internecie)
 - `strona/dane.js` – artykuły, żarty, ogłoszenia, firmy, wydarzenia i terminy
