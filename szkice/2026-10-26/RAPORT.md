@@ -41,3 +41,15 @@ Niepoprawione/otwarte: dokładne daty szczytu UK–UE (recenzent: 20 listopada, 
 6. Szczepienia na grypę i COVID: jak umówić się w NHS (zdrowie) – NHS.uk, UKHSA.
 7. Ghost brokers – poradnik „jak sprawdzić polisę” (porady) – FCA, MIB.
 8. Black Friday 2026: jak sprawdzić, czy rabat jest prawdziwy (porady) – Which?, CMA.
+
+## Dodatkowe artykuły (napisane ręcznie 26.10, poza zadaniem w chmurze)
+| Tytuł | Kategoria | Status |
+|---|---|---|
+| Licznik wody za darmo. Sprawdź, czy dzięki niemu zapłacisz mniej | pieniadze | GOTOWY DO PRZEJRZENIA |
+| Darmowe muzea w UK. Pomysł na weekend, który nic nie kosztuje | rozrywka | GOTOWY DO PRZEJRZENIA |
+| Dywizjon 303. Polscy lotnicy, o których pamięta Londyn | ludzie | GOTOWY DO PRZEJRZENIA |
+
+Weryfikacja:
+- Licznik wody: bezpłatny montaż w Anglii i Walii – Citizens Advice, MoneySavingExpert, CCW; okres powrotu zależy od firmy (2 lata / 12 miesięcy / brak) – tabela MSE (stan na luty 2026) i CCW; Citizens Advice podaje ogólnie „zwykle 12 miesięcy”, dlatego artykuł mówi „zależy od firmy”. Zasada „sypialnie ≥ mieszkańcy” – MSE. Szkocja: woda w council tax – MSE.
+- Muzea: British Museum, National Gallery i Tate zawsze bezpłatne; powrót bezpłatnego wstępu w Anglii w grudniu 2001 – National Museum Directors' Council + streszczenia Blooloop. Zapowiedź Lisy Nandy (wrzesień 2026), 15 muzeów DCMS, brak opłat dla zagranicznych gości i ~45 mln wizyt w 2025/26 – TYLKO Museums Association (drugie źródło, Ocula, było niedostępne). NHM: wstęp bezpłatny, rezerwacja zalecana, płatne wystawy – strona NHM.
+- Dywizjon 303: powstanie 2.08.1940 w RAF Northolt – Hillingdon Council; Hurricane – History Hit; 126 zestrzeleń w 42 dni i najwięcej zgłoszonych zwycięstw – RAF Benevolent Fund, History Hit, Hillingdon („6 tygodni”); 29 poległych polskich pilotów – RAFBF, History Hit. Pierwsze zestrzelenie 30.08.1940 (Paszkiewicz, lot szkoleniowy) i odsłonięcie pomnika w 1948 – po jednym źródle (RAFBF; Hillingdon). Liczba 126 to zgłoszone zwycięstwa (claims), co odzwierciedla słowo „zgłosił”.
