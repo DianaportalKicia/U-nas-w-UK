@@ -9,7 +9,7 @@ WebFetch nie działa (gov.uk i inne strony źródłowe się nie otwierają – d
 3. **Kotlet schabowy z brytyjskiego marketu** – porady – dodatkowy (kuchnia), przepis bez faktów do weryfikacji.
 
 ## Recenzent
-Agent-recenzent został uruchomiony dla artykułu 1, ale w chwili zapisu raportu nie zwrócił wyniku. Artykuł oznaczono więc jako DO SPRAWDZENIA.
+Niezależny agent sprawdził artykuł 1. Potwierdził próg 3 h, stawki £220/£350/£520 oraz nadzwyczajne okoliczności. Wskazał błędy, które poprawiono: mętny opis zakresu UK261 i EU261 (dodano równoległe stosowanie i kwoty w euro), odwołania pomieszane z opóźnieniami, uproszczenie progu £520, zbyt pewne zdanie o lotach krajowych (zmieniono na „szczegóły niepotwierdzone”), brak przedawnienia (6 lat/5 w Szkocji), ADR i prawa do opieki. Status zostaje DO SPRAWDZENIA do weryfikacji na caa.co.uk.
 
 ## Do sprawdzenia przez właściciela
 - Artykuł 1: stawki i zakres UK261 na caa.co.uk; adresy linków.
