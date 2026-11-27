@@ -6,7 +6,7 @@ WebFetch nie działał (gov.uk, bbc.co.uk i inne strony zablokowane przez sieć 
 ## Artykuły
 | Tytuł | Kategoria | Status |
 |---|---|---|
-| Weekend z polskim akcentem: „Koncert Kold” w Barnsley i Bedford oraz sylwester w Londynie | rozrywka | DO SPRAWDZENIA |
+| Polskie koncerty i sylwester w grudniu: Koncert Kold i bal w Londynie | rozrywka | DO SPRAWDZENIA |
 | Christmas party po polsku: 6 rzeczy… (felieton) | humor | GOTOWY |
 | Pierogi leniwe z brytyjskiego marketu (dodatkowy, kuchnia) | porady | GOTOWY (przepis) |
 | Pub po brytyjsku: 5 zwrotów (dodatkowy, język) | porady | GOTOWY |
@@ -19,7 +19,7 @@ WebFetch nie działał (gov.uk, bbc.co.uk i inne strony zablokowane przez sieć 
 - Pozostałe teksty nie zawierają faktów do sprawdzenia (felieton, przepis, zwroty potoczne).
 
 ## Uwagi recenzenta
-Agent-recenzent uruchomiony dla artykułu o wydarzeniach; w chwili zapisu raportu wynik jeszcze nie dotarł – sprawdź go sam przed publikacją.
+Recenzent (tylko WebSearch) potwierdził daty, godziny i ceny; uwagi uwzględniono: cena wspólna dla obu koncertów, wzmianka o Oksfordzie, zmieniony tytuł (to nie jeden weekend), opis programu złagodzony, dodano info o zawartości biletu na bal i sprzedawcach. Wciąż sprawdź aktualną cenę balu u organizatora.
 
 ## Do sprawdzenia przez właściciela
 - Daty, ceny i miejsca wydarzeń u organizatorów.
